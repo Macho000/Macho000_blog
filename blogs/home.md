@@ -1,3 +1,3 @@
 # List of blogs
 
-- [Markdownの環境構築](202207150918.md)
+- [Githubを利用したMarkdownでの記事執筆](202207150918.md)
