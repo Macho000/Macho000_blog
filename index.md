@@ -1,18 +1,6 @@
-# マークダウンで書いたページ
+- [Blogs](blogs/home.md)
 
-人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に立てれば最高!
+# 自己紹介
 
-
-## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい
-
-脳科学を通して伝えたいことはシンプルで「生きている者が勝ち！」ということです。
-
-ほとんどの生物の目的というのは「生き延びること」と「子孫を残すこと」なんですね。
-
-ですが人間だけはそうではない。「ひと花咲かせよう！」みたいなのがあって、これがすごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけです。
-
-私たちが生きているのは、それだけで実績なわけですよ。「生き延びるため」と「生殖するため」ということを考えると、自分がここにいるということは結果なので、ここから先のことは「おまけ」です。
-
-おまけの人生ですから、楽しんでいただきたい。
-
-抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
+- [Resume](https://docs.google.com/document/d/e/2PACX-1vTjLcGL5a4Iu0w4tgeDSvUPh9uaDIoN3blJdtSu51NvaNVLq4XxzUgP98OpQpPvkbicwNK73yWLOiMl/pub)
+- [履歴書](https://docs.google.com/document/d/e/2PACX-1vSUgwlRGZ3yUSiH3LyMOz0tlVT6RGP7FzbnlCIa3ge79X9uAPtXaD2RRPLOzjFkZ-tNZ3RLScFskSnO/pub)
